@@ -1,0 +1,29 @@
+.todoItem {
+  background: black;
+
+  height: 69px;
+  width: 100%;
+  display: list-item;
+  border-bottom: 2px solid grey;
+  color: white;
+  block-size: content-box;
+  text-indent: 20px;
+  position: relative;
+  padding: 5px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.edit{
+  position: relative;
+  left: 490px;
+  top: 20px;
+}
+.delete{
+  position: relative;
+  left: 500px;
+  top: 20px;
+}
+.text {
+  position: absolute;
+}
