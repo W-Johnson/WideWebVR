@@ -10,8 +10,8 @@ yarn develop
 S'inscrire sur la page strapi qui s'est normalement ouverte sur votre navigateur.
 Puis allez dans Settings -> User & Permission : Role -> sélectionnez public -> select all -> save.
 
-dans un nouveau terminal:
-mkdir TodoList
-npm install 
+dans un nouveau terminal: 
+mkdir TodoList ->
+npm install -> 
 npm start
 
